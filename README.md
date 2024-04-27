@@ -1,5 +1,7 @@
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
+# links de apoio:
+[SQL Server](https://www.sqlservertutorial.net/getting-started/)
 
 ![Diagrama banco de dados](Imagens/diagrama.png)
 
